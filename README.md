@@ -127,7 +127,7 @@ As you can see, the properties `collection` and `author` are references to the p
 
 ## Building this from scratch
 
-For mor information about building this codebase from scratch, take a look at the article [Create an MDX-powered Blog with Next.js](https://makerkit.dev/blog/tutorials/create-a-blog-mdx-nextjs).
+For more information about building this codebase from scratch, take a look at the article [Create an MDX-powered Blog with Next.js](https://makerkit.dev/blog/tutorials/create-a-blog-mdx-nextjs).
 
 ## Deploy on Vercel
 
